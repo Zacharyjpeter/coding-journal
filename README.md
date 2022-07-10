@@ -5,6 +5,6 @@ My goal is simply to learn and implement new skills.
 <br>
 <h2>Current Projects</h2>
 <ol>
-  <li>HTML/CSS/Javascript: Using FreeCodeCamp and Sololearn. Small projects linked in daily entries</li>
-  <li>Portfolio website: Acts as a sandbox and showcases skills I'm learning</li>
+  <li>Learn languages: FreeCodeCamp and Sololearn. Small projects linked in <a href="https://github.com/Zacharyjpeter/coding-journal/blob/main/journal.md"> daily journal entries</a></li>
+  <li><a href="https://github.com/Zacharyjpeter/zacharyjpeter.github.io/blob/main/README.md">Portfolio website</a>: Acts as a sandbox and showcases skills I'm learning</li>
 </ol>
