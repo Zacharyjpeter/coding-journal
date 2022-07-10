@@ -1,7 +1,8 @@
 # coding-journal
 <h2><strong>Daily updates on coding projects</strong></h2>
 <h3><i>7.9.22</i></h3>
-HTML in Sololearn. Learned how to add an image with alt text.
+Started my <a href ="https://zacharyjpeter.github.io"> Github website </a> using VSC, Homebrew, and MacOS terminal!
+<br>HTML in Sololearn. Learned how to add an image with alt text.
 <img src ="https://cdn0.iconfinder.com/data/icons/logos-21/40/GitHub-1024.png" height="100px" alt="github icon"/>
 <h3><i>7.8.22</i></h3>
 HTML in Sololearn. Learned difference between element and attribute.
