@@ -1,7 +1,8 @@
 # coding-journal
 <h2><strong>Daily updates on coding projects</strong></h2>
 <h3><i>7.10.22</i></h3>
-CSS in Sololearn. Learned difference between inline, internal, and external CSS. Markdown doesn't support CSS. Tried adding stylesheet to my website project. Didn't work for some reason.
+CSS in Sololearn. Learned difference between inline, internal, and external CSS. Markdown doesn't support CSS. 
+<br>Tried adding stylesheet to my website project. Didn't work for some reason.
 <h3><i>7.9.22</i></h3>
 Started my <a href ="https://zacharyjpeter.github.io"> Github website </a> using VSC, Homebrew, and MacOS terminal!
 <br>HTML in Sololearn. Learned how to add an image with alt text.
