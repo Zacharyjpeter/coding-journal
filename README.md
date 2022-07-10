@@ -2,7 +2,7 @@
 <h2><strong>Daily updates on coding projects</strong></h2>
 <h3><i>7.10.22</i></h3>
 CSS in Sololearn. Learned difference between inline, internal, and external CSS. Markdown doesn't support CSS. 
-<br>Tried adding stylesheet to my website project. Didn't work.
+<br>Tried adding stylesheet to my website project. No luck. Started process of applying Jekyll theme instead.
 <h3><i>7.9.22</i></h3>
 Started my <a href ="https://zacharyjpeter.github.io"> Github website </a> using VSC, Homebrew, and MacOS terminal!
 <br>HTML in Sololearn. Learned how to add an image with alt text.
