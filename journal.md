@@ -1,6 +1,5 @@
 # coding-journal
 <h2><strong>#100daysofcode Challenge</strong></h2>
-<br>
 <h3><i>7.11.22 (Day Five)</i></h3>
 Updated <a href ="https://zacharyjpeter.github.io"> my portfolio website </a>. Added three sections and spiderman gif just for fun. Started working on Cat App from FCC. Not sure how to link to FCC projects yet.
 <h3><i>7.10.22 (Day Four)</i></h3>
