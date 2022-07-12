@@ -5,6 +5,8 @@ My goal is simply to learn and implement new skills.
 <br>
 <h2>Current Projects</h2>
 <ol>
-  <li>Learn languages: FreeCodeCamp and Sololearn. Small projects linked in <a href="https://github.com/Zacharyjpeter/coding-journal/blob/main/journal.md"> daily journal entries</a></li>
-  <li><a href="https://zacharyjpeter.github.io">Portfolio website</a>: Acts as a sandbox and showcases skills I'm learning</li>
+  <li><a href="https://github.com/Zacharyjpeter/coding-journal/blob/main/Sololearn%20CV%20Project.html"> Fake CV Project</a>: Using Sololearn mobile app to practice HTML
+  <li>Cat Photo App: Using FreeCodeCamp to practice HTML. (No link yet)
+  <!-- add link to FCC project. Copy paste? -->
+  <li><a href="https://zacharyjpeter.github.io">My Portfolio Website</a>: Major long term project. Acts as a sandbox to showcase skills I'm learning</li>
 </ol>
