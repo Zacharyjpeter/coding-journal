@@ -1,5 +1,7 @@
 # coding-journal
 <h2><strong>#100daysofcode Challenge</strong></h2>
+<h3><i>7.13.22 (Day Seven)</i></h3>
+Added a table to <a href ="https://zacharyjpeter.github.io"> my portfolio website </a> under the project section. The goal is to have projects posted like a showcase. Need to add links and space text out. Could potentially host example financial blog posts there too.
 <h3><i>7.12.22 (Day Six)</i></h3>
 Added <a href="https://github.com/Zacharyjpeter/coding-journal/blob/main/Sololearn%20CV%20Project.html"> Fake CV Project</a> from Sololearn to project journal. Learned how to create lists. Added fake job titles and descriptions.
 <h3><i>7.11.22 (Day Five)</i></h3>
