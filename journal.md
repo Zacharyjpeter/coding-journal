@@ -1,9 +1,14 @@
 # coding-journal
 <h2><strong>#100daysofcode Challenge</strong></h2>
 <h3><i>7.13.22 (Day Seven)</i></h3>
+Added a skills table to my <a href="https://github.com/Zacharyjpeter/coding-journal/blob/main/Sololearn%20CV%20Project.html"> Fake CV Project</a>. Fixed the table border and spacing on <a href ="https://zacharyjpeter.github.io"> my portfolio website </a> under the project section. 
+<br>
+<h3><i>7.13.22 (Day Seven)</i></h3>
 Added a table to <a href ="https://zacharyjpeter.github.io"> my portfolio website </a> under the project section. The goal is to have projects posted like a showcase. Need to add links and space text out. Could potentially host example financial blog posts there too.
+<Br>
 <h3><i>7.12.22 (Day Six)</i></h3>
 Added <a href="https://github.com/Zacharyjpeter/coding-journal/blob/main/Sololearn%20CV%20Project.html"> Fake CV Project</a> from Sololearn to project journal. Learned how to create lists. Added fake job titles and descriptions.
+<br>
 <h3><i>7.11.22 (Day Five)</i></h3>
 Updated <a href ="https://zacharyjpeter.github.io"> my portfolio website </a>. Added three sections and spiderman gif just for fun. Started working on Cat App from FCC. Not sure how to link to FCC projects yet.
 <h3><i>7.10.22 (Day Four)</i></h3>
