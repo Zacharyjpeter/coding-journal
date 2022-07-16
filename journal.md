@@ -1,5 +1,8 @@
 # coding-journal
 <h2><strong>#100daysofcode Challenge</strong></h2>
+<h3><i>7.16.22 (Day Eight)</i></h3>
+Worked on Cat Photo app from FCC. Learned how to add hyperlinks, open links in new tab, etc.
+<br>
 <h3><i>7.13.22 (Day Seven)</i></h3>
 Added a skills table to my <a href="https://github.com/Zacharyjpeter/coding-journal/blob/main/Sololearn%20CV%20Project.html"> Fake CV Project</a>. Fixed the table border and spacing on <a href ="https://zacharyjpeter.github.io"> my portfolio website </a> under the project section. 
 <br>
