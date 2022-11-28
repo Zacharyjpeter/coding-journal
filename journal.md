@@ -1,5 +1,7 @@
 # coding-journal
 <h2><strong>#100daysofcode Challenge</strong></h2>
+<h3<i>11.28.22 (Day Nine)</i></h3>
+Setup VSC on new laptop. Created test doc in Github desktop. Reconnected VSC to Github profile to autosave changes like this. Will start daily coding practice on Thursday Dec 1st.
 <h3><i>7.16.22 (Day Eight)</i></h3>
 Worked on Cat Photo app from FCC. Learned how to open links in new tab with blank target, add sections within main, add undordered lists, and use the element figcaption. (today was the techlahoma code camp at Clevyr)
 <br>
