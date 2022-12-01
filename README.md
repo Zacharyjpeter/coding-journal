@@ -1,5 +1,5 @@
 <h1>Coding Journal</h1>
-This repo hosts small projects I'm working on. I'm focusing on HTML, CSS, and Javascript.
+This repo hosts small projects I'm working on. My focus is HTML, CSS, and Javascript.
 <br>
 <h2>Current Projects</h2>
 <ol>
