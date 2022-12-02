@@ -1,5 +1,7 @@
 # coding-journal
 <h2><strong>#100daysofcode Challenge</strong></h2>
+<h3><i>12.1.22 (Day Eleven)</i></h3>
+Today I re-learned how to use target="_blank" in an href element to open a new tab on click. Also re-learned how to add sections to my code. I can improve by finding a way to get more reps on each skill. It's difficult to remember what I've learned when I only use it once.
 <h3><i>11.29.22 (Day Ten)</i></h3>
 Today I learned my coding journal file extension was MD which means markdown. I changed it to HTML. I also learned VSC linting extensions help find syntax errors. What I can do to improve is implement more repetition. New skills don't stick without practice.
 <br>
