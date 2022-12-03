@@ -1,5 +1,7 @@
 # coding-journal
 <h2><strong>#100daysofcode Challenge</strong></h2>
+<h3><i>12.2.22 (Day Twelve)</i></h3>
+Today I reviewed how to use img src to link online photos. Coding syntax is important. I can improve by understanding how each element of code connects to the next and why.
 <h3><i>12.1.22 (Day Eleven)</i></h3>
 Today I re-learned how to use target="_blank" in an href element to open a new tab on click. Also re-learned how to add sections to my code. I can improve by finding a way to get more reps on each skill. It's difficult to remember what I've learned when I only use it once.
 <h3><i>11.29.22 (Day Ten)</i></h3>
