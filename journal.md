@@ -1,5 +1,7 @@
 # coding-journal
 <h2><strong>#100daysofcode Challenge</strong></h2>
+<h3><i>12.4.22 (Day Fourteen)</i></h3>
+Today I tried to install Git using Homebrew. But I got stuck on creating zprofile. Learned how to create ordered lists. I was a bit faster today because I remembered general syntax rules.
 <h3><i>12.3.22 (Day Thirteen)</i></h3>
 Today I finally caught up to where I was previously in FCC. I reviewed how to use the <em>figure</em> and <em>figcaption</em> elements. I finally understand that most elements have an open and closing tag. They can also be nested within other elements. Elements are a critical part of learning HTML. <strong>I can improve by expanding my element library and remembering which elements produce the desired results.</strong>
 <h3><i>12.2.22 (Day Twelve)</i></h3>
