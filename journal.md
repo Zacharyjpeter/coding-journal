@@ -1,5 +1,7 @@
 # coding-journal
 <h2><strong>#100daysofcode Challenge</strong></h2>
+<h3><i>12.6.22 (Day Sixteen)</i></h3>
+Today I learned to use the <em>input</em> element in a <em>form</em> with attributes (modifiers) <em>text</em>, <em>name</em>, and <em>placeholder</em>. Attributes allow you to change how the primary element functions. My library of elements and attributes is growing!
 <h3><i>12.5.22 (Day Fifteen)</i></h3>
 Today I learned to use the <em>form</em> element and <em>action</em> attribute. I realized that attributes act as modifiers to elements. Also realized it helps if I review my previous code before learning the new stuff. This makes previous concepts easier to remember and use. I was also able to setup Git. Turns out I wasn't following the instructions correctly. Tomorrow I'll try to understand how to use Git.
 <h3><i>12.4.22 (Day Fourteen)</i></h3>
