@@ -1,5 +1,7 @@
 # coding-journal
 <h2><strong>#100daysofcode Challenge</strong></h2>
+<h3><i>12.7.22 (Day Seventeen)</i></h3>
+Today I reviewed how to create a form. I'm a bit confused on the <em>action</em> attribute. I imagine I need to setup a database for the form to submit to? I learned how to use <em>required</em>, <em>button</em> and <em>submit</em> to ensure the form works correctly. Lessons are getting more intense!
 <h3><i>12.6.22 (Day Sixteen)</i></h3>
 Today I learned to use the <em>input</em> element in a <em>form</em> with attributes (modifiers) <em>text</em>, <em>name</em>, and <em>placeholder</em>. Attributes allow you to change how the primary element functions. My library of elements and attributes is growing!
 <h3><i>12.5.22 (Day Fifteen)</i></h3>
