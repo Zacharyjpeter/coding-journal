@@ -1,5 +1,7 @@
 # coding-journal
 <h2><strong>#100daysofcode Challenge</strong></h2>
+<h3><i>12.8.22 (Day Eighteen)</i></h3>
+Today I learned how to add radio buttons to my form. Here's an example <input type="radio">. I also learned how to nest it within a label element to make the radio text clickable. I can improve the internalization of each concept by reviewing previous concepts first. And only doing 3-5 lessons per day.
 <h3><i>12.7.22 (Day Seventeen)</i></h3>
 Today I reviewed how to create a form. I'm a bit confused on the <em>action</em> attribute. I imagine I need to setup a database for the form to submit to? I learned how to use <em>required</em>, <em>button</em> and <em>submit</em> to ensure the form works correctly. Lessons are getting more intense!
 <h3><i>12.6.22 (Day Sixteen)</i></h3>
