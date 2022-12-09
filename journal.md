@@ -1,5 +1,7 @@
 # coding-journal
 <h2><strong>#100daysofcode Challenge</strong></h2>
+<h3><i>12.9.22 (Day Nineteen)</i></h3>
+Today I learned how to use the name and value attributes in a form. I'm still trying to understand why each of these are important. <em>Input</em> is the primary element. <em>ID</em> vs <em>Value</em> vs <em>name</em> confuses me because they all have the same text "indoor". Something to figure out tomorrow.
 <h3><i>12.8.22 (Day Eighteen)</i></h3>
 Today I learned how to add radio buttons to my form. Here's an example <input type="radio">. I also learned how to nest it within a label element to make the radio text clickable. I can improve the internalization of each concept by reviewing previous concepts first. And only doing 3-5 lessons per day.
 <h3><i>12.7.22 (Day Seventeen)</i></h3>
