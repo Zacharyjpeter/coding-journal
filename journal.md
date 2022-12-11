@@ -1,5 +1,7 @@
 # coding-journal
 <h2><strong>#100daysofcode Challenge</strong></h2>
+<h3><i>12.10.22 (Day Twenty)</i></h3>
+Today I learned how to use the fieldset and legend element. Legend is used with forms to give written context. Fieldset acts as a section around the form. Not sure what the difference is from a regualar section element.
 <h3><i>12.9.22 (Day Nineteen)</i></h3>
 Today I learned how to use the name and value attributes in a form. I'm still trying to understand why each of these are important. <em>Input</em> is the primary element. <em>ID</em> vs <em>Value</em> vs <em>name</em> confuses me because they all have the same text "indoor". Something to figure out tomorrow.
 <h3><i>12.8.22 (Day Eighteen)</i></h3>
