@@ -8,7 +8,7 @@ Journal Entry Template
 <strong>Learned:</strong>
 <br>
 <br>
-<h3>12.11.22 (Day Twenty One)</h3>
+<h3>12.11.22 - Day Twenty One</h3>
 <strong>Reviewed:</strong> How to use radio button, label, ID, name, value, fieldset, and legend.
 <br>
 <strong>Learned:</strong> Elements are whole strings of code. An element includes the tag and attributes (aka tag modifiers). Tags are the opening and closing pieces of code. The <em>label</em> element makes text clickable in a radio button. Nesting is when one element is placed in the middle of another element. The <em>ID</em> attribute marks an element as distinct inside the HTML file. The ID is NOT visible text. Visible text is written outside the <em>input</em> element. The <em>name</em> attribute ensures clicking one radio button deselects the other option. The name must be the same for all buttons. The <em>value</em> attribute is the data stored by your form. Value should match the name and ID for consistency.
