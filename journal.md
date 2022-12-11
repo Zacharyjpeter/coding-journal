@@ -11,8 +11,15 @@ Journal Entry Template
 <h3>12.11.22 - Day Twenty One</h3>
 <strong>Reviewed:</strong> How to use radio button, label, ID, name, value, fieldset, and legend.
 <br>
-<strong>Learned:</strong> Elements are whole strings of code. An element includes the tag and attributes (aka tag modifiers). Tags are the opening and closing pieces of code. The <em>label</em> element makes text clickable in a radio button. Nesting is when one element is placed in the middle of another element. The <em>ID</em> attribute marks an element as distinct inside the HTML file. The ID is NOT visible text. Visible text is written outside the <em>input</em> element. The <em>name</em> attribute ensures clicking one radio button deselects the other option. The name must be the same for all buttons. The <em>value</em> attribute is the data stored by your form. Value should match the name and ID for consistency.
+<strong>Learned:</strong> Elements are whole strings of code. An element includes the tag and attributes (aka tag modifiers). Tags are the opening and closing pieces of code. 
 <br>
+<strong>Important Notes</strong>
+<ul>
+    <li>The <em>label</em> element makes text clickable in a radio button. Nesting is when one element is placed in the middle of another element. 
+    <li>The <em>ID</em> attribute marks an element as distinct inside the HTML file. The ID is NOT visible text. Visible text is written outside the <em>input</em> element. 
+    <li>The <em>name</em> attribute ensures clicking one radio button deselects the other option. The name must be the same for all buttons. 
+    <li>The <em>value</em> attribute is the data stored by your form. Value should match the name and ID for consistency.
+</ul>
 <h3><i>12.10.22 (Day Twenty)</i></h3>
 Today I learned how to use the fieldset and legend element. Legend is used with forms to give written context. Fieldset acts as a section around the form. Not sure what the difference is from a regualar section element.
 <h3><i>12.9.22 (Day Nineteen)</i></h3>
