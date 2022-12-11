@@ -10,6 +10,8 @@ Journal Entry Template
 <br>
 <h3>12.11.22 - Day Twenty One</h3>
 Created new journal format and learning process. Will review previous lessons each day before starting new lessons. This will improve understanding and memory.
+<br>
+<br>
 <strong>Reviewed:</strong> How to use radio button, label, ID, name, value, fieldset, and legend.
 <br>
 <strong>Learned:</strong> Elements are whole strings of code. An element includes the tag and attributes (aka tag modifiers). Tags are the opening and closing pieces of code. Nesting is when one element is placed in the middle of another element. 
