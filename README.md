@@ -5,5 +5,5 @@ This repo hosts small projects I'm working on. My focus is HTML, CSS, and Javasc
 <ol>
    <li><a href="https://github.com/Zacharyjpeter/coding-journal/blob/main/journal.md">Coding Journal</a>: Daily log of what I'm learning in FreeCodeCamp.
    <li><a href="https://github.com/Zacharyjpeter/coding-journal/blob/main/Cat%20Photo%20App.html">Cat Photo App</a>: Current FreeCodeCamp project. 
-   <li><a href="https://zacharyjpeter.github.io">My Portfolio Website</a>: Showcase for finished FCC projects.</li>
+   <li><a href="https://zacharyjpeter.github.io">My Portfolio</a>: Showcase for finished FCC projects.</li>
 </ol>
