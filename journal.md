@@ -13,6 +13,7 @@ Journal Entry Template
 <br>
 <strong>Learned:</strong> Elements are whole strings of code. An element includes the tag and attributes (aka tag modifiers). Tags are the opening and closing pieces of code. Nesting is when one element is placed in the middle of another element. 
 <br>
+<br>
 <strong>Important Notes</strong>
 <ul>
     <li>The <em>label</em> element makes text clickable in a radio button.
