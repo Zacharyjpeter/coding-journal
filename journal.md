@@ -14,10 +14,19 @@ Journal Entry Template
 <strong>Learned:</strong> The <em>for</em> and <em>ID</em> attributes both can be used to link element text with the text itself. I got stuck here and was very annoyed. Code should work but it doesn't. I re-read the instructions. Googled how to use "for" element and reviewed FCC's help forum for the question. Other people made obvious mistakes (typos, missing tags, etc.) Mine should work but it doesn't.
 <br>
 <br>
-<strong>Broken code I used</strong>
+<strong>Update!</strong>
 <br>
-&lt;input id="loving" type="checkbox"&gt;
-        &lt;label&gt;Loving for="loving"&lt;/label&gt;
+I used ChatGPT to find the error in my code. It explained it much simpler than any of the forums I found online. The opening label elemnent has to be open for the "for" attribute to work. Syntax error.
+<br>
+<br>
+<strong>Fixed code</strong>
+&lt;input id="loving" type="checkbox"&gt; &lt;label for="loving"&lt;Loving&gt;
+<br>
+<br>
+<strong>Broken code</strong>
+<br>
+&lt;input id="loving" type="checkbox"&gt; &lt;label&gt;Loving for="loving"&lt;/label&gt;
+<br>
 <br>
 <h3>12.11.22 - Day Twenty One</h3>
 Created new journal format and learning process. Will review previous lessons each day before starting new lessons. This will improve understanding and memory.
