@@ -13,6 +13,7 @@ Journal Entry Template
 <br>
 <strong>Learned:</strong> The <em>for</em> and <em>ID</em> attributes both can be used to link element text with the text itself. I got stuck here and was very annoyed. Code should work but it doesn't. I re-read the instructions. Googled how to use "for" element and reviewed FCC's help forum for the question. Other people made obvious mistakes (typos, missing tags, etc.) Mine should work but it doesn't.
 <br>
+<br>
 <strong>Broken code I used</strong>
 <br>
 &lt;input id="loving" type="checkbox"&gt;
