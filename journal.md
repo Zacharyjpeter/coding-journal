@@ -9,7 +9,6 @@ Learned:
 <br>
 Confused:
 <br>
-<br>
 <h3>12.13.22 - Day Twenty Three</h3>
 <strong>Reviewed:</strong> How to use for attribute correctly with label element. Key detail, the opening tag includes the attribute BEFORE closing it.
 <br>
