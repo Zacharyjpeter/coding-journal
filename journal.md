@@ -12,7 +12,9 @@ Confused:
 <h3>12.14.22 - Day Twenty Four</h3>
 <strong>Reviewed:</strong> How to use an anchor element to link text. The key is to leave opening tag open, set attribute, use ">", insert visible text here, THEN close the element with a closing tag. Syntax is important!
 <br>
+<br>
 <strong>Learned:</strong> How to add a footer, header, doctype, language, and meta attributes. HTML5 uses the UTF-8 encoding so browsers can translate the text correctly. Thankfully I've been watching CS50 to know a little of what this means.
+<br>
 <br>
 <strong>Confused:</strong> Nothing today but I'm going to review the last few lessons once more before starting on CSS tomorrow! So excited to finally finish something!!! (How do I add party emojis??)
 <br>
