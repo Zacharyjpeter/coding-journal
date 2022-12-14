@@ -38,6 +38,7 @@ Confused:
 <br>
 I used ChatGPT to find the error in my code. It explained it much simpler than any of the forums I found online. The opening label elemnent has to be open for the "for" attribute to work. Syntax error.
 <br>
+<br>
 <strong>Fixed code</strong>
 &lt;input id="loving" type="checkbox"&gt; &lt;label for="loving"&lt;Loving&gt;
 <br>
