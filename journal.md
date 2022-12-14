@@ -16,6 +16,18 @@ Confused:
 <strong>Learned:</strong> How to add a footer, header, doctype, language, and meta attributes. HTML5 uses the UTF-8 encoding so browsers can translate the text correctly. Thankfully I've been watching CS50 to know a little of what this means.
 <br>
 <br>
+<strong>Update!</strong> 
+<br> 
+I understand the distinctions between form elements. See below.
+<br>
+<strong>Important Notes</strong>
+<ul>
+    <li>The <em>label</em> element associates text with an input element
+    <li>The <em>ID</em> attribute marks an element as distinct inside the HTML file. The ID is NOT visible text. Visible text is written outside the <em>input</em> element. 
+    <li>The <em>name</em> names the input field. (i.e firstname: Zachary, lastname: Peterson. In this example <em>firstname</em> and <em>lastname</em> would be the <em>name</em> for the input field)
+    <li>The <em>value</em> attribute is the data stored by your input field. (i.e. value would be Zachary or Peterson)
+</ul>
+<br>
 <strong>Confused:</strong> Nothing today but I'm going to review the last few lessons once more before starting on CSS tomorrow! So excited to finally finish something!!! (How do I add party emojis??)
 <br>
 <h3>12.13.22 - Day Twenty Three</h3>
