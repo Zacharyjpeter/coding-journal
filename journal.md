@@ -1,4 +1,10 @@
 # coding-journal
+<style>
+    h2 {
+        text-align: center;
+    }
+</style>
+
 <h2><strong>#100daysofcode Challenge</strong></h2>
 <br>
 <strong>Journal Entry Template</strong>
@@ -13,7 +19,7 @@ Confused:
 <strong>Reviewed:</strong> How to use an anchor element to link text. The key is to leave opening tag open, set attribute, use ">", insert visible text here, THEN close the element with a closing tag. Syntax is important!
 <br>
 <br>
-<strong>Learned:</strong> How to add a footer, header, doctype, language, and meta attributes. HTML5 uses the UTF-8 encoding so browsers can translate the text correctly. Thankfully I've been watching CS50 to know a little of what this means.
+<strong>Learned:</strong> How to add a footer, header, doctype, language, and meta attributes. HTML5 uses the UTF-8 encoding so browsers can translate the text correctly. Thankfully I've been watching CS50 to know a little of what this means. Also, started the CSS modules because I couldn't wait. Learned how to use text align property!
 <br>
 <br>
 <strong>Update!</strong> 
