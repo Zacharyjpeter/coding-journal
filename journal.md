@@ -20,6 +20,7 @@ Confused:
 <br> 
 I understand the distinctions between form elements. See below.
 <br>
+<br>
 <strong>Important Notes</strong>
 <ul>
     <li>The <em>label</em> element associates text with an input element
