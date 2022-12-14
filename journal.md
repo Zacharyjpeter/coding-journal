@@ -1,11 +1,21 @@
 # coding-journal
 <h2><strong>#100daysofcode Challenge</strong></h2>
 <br>
-Journal Entry Template
+<strong>Journal Entry Template</strong>
 <br>
-<strong>Reviewed:</strong>
+Reviewed:
 <br>
-<strong>Learned:</strong>
+Learned:
+<br>
+Confused:
+<br>
+<br>
+<h3>12.13.22 - Day Twenty Three</h3>
+<strong>Reviewed:</strong> How to use for attribute correctly with label element. Key detail, the opening tag includes the attribute BEFORE closing it.
+<br>
+<strong>Learned:</strong> How to add multiple checkbox elements. Pretty much copy paste with different text.
+<br>
+<strong>Confused:</strong> Still confused on the difference between name, ID, and value. They all sound similar and host similar input.
 <br>
 <br>
 <h3>12.12.22 - Day Twenty Two</h3>
