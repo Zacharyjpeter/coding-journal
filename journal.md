@@ -13,7 +13,7 @@ Confused:
 <h3>12.13.22 - Day Twenty Three</h3>
 <strong>Reviewed:</strong> How to use for attribute correctly with label element. Key detail, the opening tag includes the attribute BEFORE closing it.
 <br>
-<strong>Learned:</strong> How to add multiple checkbox elements. Pretty much copy paste with different text.
+<strong>Learned:</strong> How to add multiple checkbox elements. Pretty much copy paste with different text. Also figured out how to use Homebrew to download Github CLI. Still need to learn how to use it though.
 <br>
 <strong>Confused:</strong> Still confused on the difference between name, ID, and value. They all sound similar and host similar input.
 <br>
