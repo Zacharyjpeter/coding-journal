@@ -41,6 +41,7 @@ I used ChatGPT to find the error in my code. It explained it much simpler than a
 <strong>Fixed code</strong>
 &lt;input id="loving" type="checkbox"&gt; &lt;label for="loving"&lt;Loving&gt;
 <br>
+<br>
 <strong>Broken code</strong>
 <br>
 &lt;input id="loving" type="checkbox"&gt; &lt;label&gt;Loving for="loving"&lt;/label&gt;
@@ -50,7 +51,9 @@ Created new journal format and learning process. Will review previous lessons ea
 <br>
 <strong>Reviewed:</strong> How to use radio button, label, ID, name, value, fieldset, and legend.
 <br>
+<br>
 <strong>Learned:</strong> Elements are whole strings of code. An element includes the tag and attributes (aka tag modifiers). Tags are the opening and closing pieces of code. Nesting is when one element is placed in the middle of another element. 
+<br>
 <br>
 <strong>Important Notes</strong>
 <ul>
