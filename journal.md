@@ -21,14 +21,18 @@ Confused:
 <h3>12.13.22 - Day Twenty Three</h3>
 <strong>Reviewed:</strong> How to use for attribute correctly with label element. Key detail, the opening tag includes the attribute BEFORE closing it.
 <br>
+<br>
 <strong>Learned:</strong> How to add multiple checkbox elements. Pretty much copy paste with different text. Also figured out how to use Homebrew to download Github CLI. Still need to learn how to use it though.
+<br>
 <br>
 <strong>Confused:</strong> Still confused on the difference between name, ID, and value. They all sound similar and host similar input.
 <br>
 <h3>12.12.22 - Day Twenty Two</h3>
 <strong>Reviewed:</strong> How to use fieldset and legend. Fieldset groups the items of a form together. Legend acts as a caption for form inputs.
 <br>
+<br>
 <strong>Learned:</strong> The <em>for</em> and <em>ID</em> attributes both can be used to link element text with the text itself. I got stuck here and was very annoyed. Code should work but it doesn't. I re-read the instructions. Googled how to use "for" element and reviewed FCC's help forum for the question. Other people made obvious mistakes (typos, missing tags, etc.) Mine should work but it doesn't.
+<br>
 <br>
 <strong>Update!</strong>
 <br>
