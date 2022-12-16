@@ -13,7 +13,13 @@ Reviewed:
 <br>
 Learned:
 <br>
-Confused:
+<br>
+<h3>12.15.22 - Day Twenty Five</h3>
+<strong>Reviewed:</strong> Lessons from yesterday. I started CSS but didn't want to overload yesterday's journal.
+<br>
+<br>
+<strong>Learned:</strong> How to use CSS in html file using style element. How to create separate CSS file and link to stylesheet. How to use property and value attributes to make changes to specific elements. How to use div, margin, width, etc. Getting to a point where I can do more lessons in less time. Will note less minutaie. 
+<br>
 <br>
 <h3>12.14.22 - Day Twenty Four</h3>
 <strong>Reviewed:</strong> How to use an anchor element to link text. The key is to leave opening tag open, set attribute, use ">", insert visible text here, THEN close the element with a closing tag. Syntax is important!
