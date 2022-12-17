@@ -14,6 +14,13 @@ Reviewed:
 Learned:
 <br>
 <br>
+<h3>12.16.22 - Day Twenty Six</h3>
+<strong>Reviewed:</strong> How to style multiple aspects of a single element. For example, changing the background color, width, and margins of a div.
+<br>
+<br>
+<strong>Learned:</strong> How to use class instead of styling individual elements. It seems you can name a group of styles and apply them selectively via div attribute. Example, make all divs with class="menu" turn blue with margins set to auto. Might be useful for my card portfolio idea.
+<br>
+<br>
 <h3>12.15.22 - Day Twenty Five</h3>
 <strong>Reviewed:</strong> Lessons from yesterday. I started CSS but didn't want to overload yesterday's journal.
 <br>
