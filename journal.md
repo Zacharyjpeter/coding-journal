@@ -8,6 +8,13 @@
 <strong>Learned:</strong>
 <br>
 <br>
+<h3>12.18.22 - Day Twenty Eight</h3>
+<strong>Reviewed:</strong> How to use CSS classes vs selectors to style html elements.
+<br>
+<br>
+<strong>Learned:</strong> A selector is different from a class. Class is a group of styles you can apply to any element. A selector only changes one element type. For example, if I style the h2 element only it's a selector and will apply to all h2s in the doc. But if I say ".name" I can apply styles to a div or anything else, that's a class. Finished the Cafe Menu project.
+<br>
+<br>
 <h3>12.17.22 - Day Twenty Seven</h3>
 <strong>Reviewed:</strong> How to style multiple aspects of a single element.
 <br>
