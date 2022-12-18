@@ -7,11 +7,18 @@
 
 <h2><strong>#100daysofcode Challenge</strong></h2>
 <br>
-<strong>Journal Entry Template</strong>
+<h3>Journal Entry Template</h3>
+<strong>Reviewed:</strong>
 <br>
-Reviewed:
 <br>
-Learned:
+<strong>Learned:</strong>
+<br>
+<br>
+<h3>12.17.22 - Day Twenty Seven</h3>
+<strong>Reviewed:</strong> How to style multiple aspects of a single element.
+<br>
+<br>
+<strong>Learned:</strong> That a class in CSS is a group of styles assigned a specific name. For example, for my portfolio gallery I could create a CSS style for cards to minimize copy/paste time. Cleaner code too. Worked on FCC coffe menu using CSS.
 <br>
 <br>
 <h3>12.16.22 - Day Twenty Six</h3>
