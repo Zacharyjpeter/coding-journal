@@ -1,10 +1,4 @@
 # coding-journal
-<style>
-    h2 {
-        text-align: center;
-    }
-</style>
-
 <h2><strong>#100daysofcode Challenge</strong></h2>
 <br>
 <h3>Journal Entry Template</h3>
