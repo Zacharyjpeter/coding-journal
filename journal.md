@@ -8,6 +8,13 @@
 <strong>Learned:</strong>
 <br>
 <br>
+<h3>12.19.22 - Day Twenty Nine</h3>
+<strong>Reviewed:</strong> How to nest a div within a div to create containers. How to use margins to create space between colors and containers.
+<br>
+<br>
+<strong>Learned:</strong> Fixed my portfolio background. The CSS didn't work because I used "background" instead of "background-color". Somehow this shade of black is less sexy than what I see on my favorite websites. Need to figure that out next.
+<br>
+<br>
 <h3>12.18.22 - Day Twenty Eight</h3>
 <strong>Reviewed:</strong> How to use CSS classes vs selectors to style html elements.
 <br>
