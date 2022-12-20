@@ -8,6 +8,13 @@
 <strong>Learned:</strong>
 <br>
 <br>
+<h3>12.20.22 - Day Thirty</h3>
+<strong>Reviewed:</strong> How to use divs to create containers for colors. How to use margins to space the containers.
+<br>
+<br>
+<strong>Learned:</strong> How to use RGB to color divs. That a function takes an input and performs an action. Values are called arguments. Example: RGB(255, 0, 0) would produce 100% green. The color instruction is a function and the numbers are arguments.
+<br>
+<br>
 <h3>12.19.22 - Day Twenty Nine</h3>
 <strong>Reviewed:</strong> How to nest a div within a div to create containers. How to use margins to create space between colors and containers.
 <br>
