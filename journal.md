@@ -8,6 +8,13 @@
 <strong>Learned:</strong>
 <br>
 <br>
+<h3>12.21.22 - Day Thirty One</h3>
+<strong>Reviewed:</strong> How to color div elements using RGB.
+<br>
+<br>
+<strong>Learned:</strong> How to use color theory to manipulate shades. How to use hex color values vs rgb.
+<br>
+<br>
 <h3>12.20.22 - Day Thirty</h3>
 <strong>Reviewed:</strong> How to use divs to create containers for colors. How to use margins to space the containers.
 <br>
