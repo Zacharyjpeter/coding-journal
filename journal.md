@@ -8,6 +8,13 @@
 <strong>Learned:</strong>
 <br>
 <br>
+<h3>12.22.22 - Day 32</h3>
+<strong>Reviewed:</strong> How to use rgb to color divs.
+<br>
+<br>
+<strong>Learned:</strong> How to use hex codes instead of rgb. Each pair of the six numbers represents R,G,B. For example, 00ff00 means max green. There's also HSL color theory. Hue, saturation, and lightness. How to use linear gradient. May be useful to make portfolio text more classy
+<br>
+<br>
 <h3>12.21.22 - Day Thirty One</h3>
 <strong>Reviewed:</strong> How to color div elements using RGB.
 <br>
