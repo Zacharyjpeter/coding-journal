@@ -1,7 +1,7 @@
 # coding-journal
 <h2><strong>#100daysofcode Challenge</strong></h2>
 <br>
-<h3>Journal Entry Template</h3>
+<h3>Journal Template</h3>
 <strong>Reviewed:</strong>
 <br>
 <br>
@@ -9,7 +9,7 @@
 <br>
 <br>
 <h3>12.23.22 - Day 33</h3>
-<strong>Reviewed:</strong> The difference between RGB, HSL, and hex code. RGB uses 0-255 to represent no color to max color. HSL uses 360, %, % to represent (color wheel direction in degrees, percent of max color, and percent of contrast). Each one functions different but achieves the same goal. Hex code uses #00FF00 where each number pair represents red, green, and blue.
+<strong>Reviewed:</strong> The difference between RGB, HSL, and hex code. RGB uses 0-255 to represent no color to max color. HSL uses 360, %, % to represent (color wheel position in degrees, percent of max color, and percent of contrast). Each one functions different but achieves the same goal. Hex code uses #00FF00 where each number pair represents red, green, and blue.
 <br>
 <br>
 <strong>Learned:</strong> How to use and manipulate color transition using linear gradient. Added gradients to marker project.
