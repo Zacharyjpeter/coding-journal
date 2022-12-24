@@ -1,6 +1,4 @@
 # coding-journal
-<h2><strong>#100daysofcode Challenge</strong></h2>
-<br>
 <h3>Journal Template</h3>
 <strong>Reviewed:</strong>
 <br>
