@@ -10,7 +10,10 @@
 <strong>Reviewed:</strong> How to use hsl function to manipulate color on the marker vs rgb or hex.
 <br>
 <br>
-<strong>Learned:</strong> How to manipulate opacity using rgba or opacity property. Also how to use border property to control width, style, and color at the same time. Box shadow will be important for cards on portfolio site.
+<strong>Learned:</strong> How to manipulate opacity using rgba or opacity property. How to use border property to control width, style, and color at the same time. Box shadow will be important for cards on portfolio site.
+<br>
+<br>
+<strong>Important note:</strong> Each lesson introduces a new element and ways to manipulate it. Keep this in mind when tracking future learning. What elements have been introuduced? How do you manipulate them?
 <br>
 <br>
 <h3>12.23.22 - Day 33</h3>
