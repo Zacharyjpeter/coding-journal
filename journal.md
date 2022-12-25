@@ -6,6 +6,13 @@
 <strong>Learned:</strong>
 <br>
 <br>
+<h3>12.24.22 - Day 34</h3>
+<strong>Reviewed:</strong> How to use hsl function to manipulate color on the marker vs rgb or hex.
+<br>
+<br>
+<strong>Learned:</strong> How to manipulate opacity using rgba or opacity property. Also how to use border property to control width, style, and color at the same time. Box shadow will be important for cards on portfolio site.
+<br>
+<br>
 <h3>12.23.22 - Day 33</h3>
 <strong>Reviewed:</strong> The difference between RGB, HSL, and hex code. RGB uses 0-255 to represent no color to max color. HSL uses 360, %, % to represent (color wheel position in degrees, percent of max color, and percent of contrast). Each one functions different but achieves the same goal. Hex code uses #00FF00 where each number pair represents red, green, and blue.
 <br>
