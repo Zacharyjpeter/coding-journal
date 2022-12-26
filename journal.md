@@ -6,6 +6,13 @@
 <strong>Learned:</strong>
 <br>
 <br>
+<h3>12.25.22 - Day 35</h3>
+<strong>Reviewed:</strong> How to use border property and box shadow. Border can manipulate width, style, and color all at once. Box shadow blur radius controls the harshness of the lines. Spread radius controls how large the shadow is. I love this one.
+<br>
+<br>
+<strong>Learned:</strong>
+<br>
+<br>
 <h3>12.24.22 - Day 34</h3>
 <strong>Reviewed:</strong> How to use hsl function to manipulate color on the marker vs rgb or hex.
 <br>
