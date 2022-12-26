@@ -10,7 +10,7 @@
 <strong>Reviewed:</strong> How to use border property and box shadow. Border can manipulate width, style, and color all at once. Box shadow blur radius controls the harshness of the lines. Spread radius controls how large the shadow is. I love this one.
 <br>
 <br>
-<strong>Learned:</strong>
+<strong>Learned:</strong> Started the registration form project.
 <br>
 <br>
 <h3>12.24.22 - Day 34</h3>
