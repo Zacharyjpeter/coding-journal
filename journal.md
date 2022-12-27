@@ -6,6 +6,13 @@
 <strong>Learned:</strong>
 <br>
 <br>
+<h3>12.27.22 - Day 37</h3>
+<strong>Reviewed:</strong> How to use fieldset to create different sections.
+<br>
+<br>
+<strong>Learned:</strong> How to change font size relative to the html doc? Something called "rem". Not really sure what this means yet. Related to vmax somehow.
+<br>
+<br>
 <h3>12.26.22 - Day 36</h3>
 <strong>Reviewed:</strong> How to create a form and use fieldset to separate its sections.
 <br>
