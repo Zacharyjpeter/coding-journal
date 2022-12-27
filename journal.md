@@ -6,6 +6,13 @@
 <strong>Learned:</strong>
 <br>
 <br>
+<h3>12.26.22 - Day 36</h3>
+<strong>Reviewed:</strong> How to create a form and use fieldset to separate its sections.
+<br>
+<br>
+<strong>Learned:</strong> How to direct form inputs to a specific url using the method attribute. Ex. (form method="post"). Not sure how databases work but this seems like the starting point.
+<br>
+<br>
 <h3>12.25.22 - Day 35</h3>
 <strong>Reviewed:</strong> How to use border property and box shadow. Border can manipulate width, style, and color all at once. Box shadow blur radius controls the harshness of the lines. Spread radius controls how large the shadow is. I love this one.
 <br>
