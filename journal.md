@@ -6,6 +6,13 @@
 <strong>Learned:</strong>
 <br>
 <br>
+<h3>12.28.22 - Day 38</h3>
+<strong>Reviewed:</strong> The concept of rem vs em in CSS.
+<br>
+<br>
+<strong>Learned:</strong> em is a measurement unit. It's relative to font size. Kind of like a ratio. For example, if the font size is 12pt or 12px then 1em = 12pt font. rem is relative to the html font size of the entire document. em is relative to the font size of the immediate div. (i think lol)
+<br>
+<br>
 <h3>12.27.22 - Day 37</h3>
 <strong>Reviewed:</strong> How to use fieldset to create different sections.
 <br>
