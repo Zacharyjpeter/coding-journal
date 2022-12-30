@@ -6,6 +6,13 @@
 <strong>Learned:</strong>
 <br>
 <br>
+<h3>12.30.22 - Day 40</h3>
+<strong>Reviewed:</strong> How to create a form and separate its sections using fieldset.
+<br>
+<br>
+<strong>Learned:</strong> How to use "pattern" to require passwords use certain characters for security.
+<br>
+<br>
 <h3>12.29.22 - Day 39</h3>
 <strong>Reviewed:</strong> How to use for attribute inside an input element. Very tricky to remember! Also what rem vs em means.
 <br>
