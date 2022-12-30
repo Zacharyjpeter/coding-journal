@@ -6,6 +6,13 @@
 <strong>Learned:</strong>
 <br>
 <br>
+<h3>12.29.22 - Day 39</h3>
+<strong>Reviewed:</strong> How to use for attribute inside an input element. Very tricky to remember! Also what rem vs em means.
+<br>
+<br>
+<strong>Learned:</strong> Specifying the input type allows the browser to read it better. For example, email automatically populates your email if the form specifically asks for it.
+<br>
+<br>
 <h3>12.28.22 - Day 38</h3>
 <strong>Reviewed:</strong> The concept of rem vs em in CSS.
 <br>
