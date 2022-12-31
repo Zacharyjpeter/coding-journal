@@ -1,9 +1,9 @@
-<h1>Coding Journal</h1>
-This repo hosts small projects I'm working on. My focus is HTML, CSS, and Javascript.
+<h1>Code Journal</h1>
+This repo is a journal only. For actual code projects see below.
 <br>
 <h2>Quicklinks</h2>
 <ol>
-   <li><a href="https://github.com/Zacharyjpeter/coding-journal/blob/main/journal.md">Coding Journal</a>: Daily log of what I'm learning in FreeCodeCamp.
-   <li><a href="https://github.com/Zacharyjpeter/coding-journal/tree/main/Colored%20Markers">Colored Markers</a>: Current FreeCodeCamp project. 
-   <li><a href="https://zacharyjpeter.github.io">My Portfolio</a>: Showcase for finished FCC projects.</li>
+   <li><a href="https://github.com/Zacharyjpeter/FCC-RegistrationForm">FreeCodeCamp - Registration Form</a></li>
+   <li><a href="https://github.com/Zacharyjpeter/coding-journal/tree/main/Colored%20Markers">FreeCodeCamp - Colored Markers</a></li>
+   <li><a href="https://github.com/Zacharyjpeter/FCC-CafeMenu">FreeCodeCamp - Cafe Menu</a></li>
 </ol>
